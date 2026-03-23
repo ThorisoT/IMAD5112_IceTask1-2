@@ -10,7 +10,13 @@
         android:id="@+id/textViewHeading"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text=""
+        android:gravity="center"
+        android:text="Productively"/>
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="match_parent"
+        android:layout_height=""
 
 
 
