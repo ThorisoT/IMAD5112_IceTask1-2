@@ -16,7 +16,17 @@
     <TextView
         android:id="@+id/textViewDescription"
         android:layout_width="match_parent"
-        android:layout_height=""
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Welcome to Productively, your go to tool for boosting your productivety for the day" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Get started" />
+
+</LinearLayout>
 
 
 
